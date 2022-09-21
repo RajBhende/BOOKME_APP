@@ -1,2 +1,13 @@
-# BOOKME_APP
- This Application is an Example of Appointment System in which you can book your appointment at Hospitals,Hotels,Saloons,Cinemas,etc. This App is Connected with Firebase Authentication which helps you to Sign in and Sign up. You can add your Firebase account by replacing the package name by yours.So Edit and Enjoy 😊
+# Firebase Email Authentication Example App
+
+In this application i have implemented firebase email authentication system. where user can create new account, login using the email and password.
+
+## Features 
+1. Create New account with email
+2. Saved user Data with FireStore 
+3. Forgot Password options
+4. Verify User Email
+
+#This android app source code is provided for the Video Tutorial Series on youtube channel (SmallAcademy) You can watch Full tutorial series here. 
+
+https://www.youtube.com/embed/videoseries?list=PLlGT4GXi8_8dDK5Y3KCxuKAPpil9V49rN
