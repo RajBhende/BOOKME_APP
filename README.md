@@ -48,6 +48,6 @@ You can add your Firebase account by replacing the package name by yours.So Edit
   
 ## Feedback
 
-If you have any feedback, please reach out to us at rathodsahil2810@gmail.com
+If you have any feedback, please reach out to us at rajbhende2@gmail.com
 
   
